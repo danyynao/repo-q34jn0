@@ -1,8 +1,10 @@
 16/09/2026
 
-<!-- notify 1/2 · bDM9VGGI -->
-## Notification 1/2
-Round: Round 1
-To: norcrossm@gci.net, mdrozdowski@kpmg.com
-At: 2026-09-16 16:01:33
-Id: bDM9VGGI
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: adelia0221@verizon.net, bdempsey@aubproperties.com
+At: 2026-09-16 16:01:41
+Id: LLlUjkCi
